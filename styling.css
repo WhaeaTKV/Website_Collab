@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    font-size: 2rem;
+    font-style: italic;
+  }
+
+p {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+body {
+    background-color: yellow;
+  }
+
+  
